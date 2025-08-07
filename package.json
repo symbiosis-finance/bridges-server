@@ -25,9 +25,9 @@
     "@types/retry": "^0.12.5",
     "eslint-config-prettier": "^8.3.0",
     "prettier": "^2.5.1",
-    "serverless": "^3.21.0",
+    "serverless": "^4.18.0",
     "serverless-esbuild": "^1.54.6",
-    "serverless-offline": "^12.0.0",
+    "serverless-offline": "^14.4.0",
     "serverless-prune-plugin": "^2.0.1",
     "vite": "^6.0.1"
   },
